@@ -26,4 +26,4 @@ If a future version adds online services (for example, playing with friends over
 
 ## Contact
 
-Questions: **[your contact email]**
+Questions: tippygamesstudio@gmail.com
