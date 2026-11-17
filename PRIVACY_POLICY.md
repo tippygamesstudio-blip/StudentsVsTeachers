@@ -18,7 +18,7 @@ When you play with friends, your device connects to theirs using a join code. Th
 
 ## Children
 
-The game is made for players about 9 years old and up. Because it collects no personal information, it complies with children's privacy laws such as COPPA (United States) and GDPR (European Union). Parents are welcome to contact us with any question.
+The game is made for players about 9 years old and up. Because it collects no personal information, it complies with children's privacy laws such as COPPA (United States) and GDPR (European Union). The game follows the Google Play Families Policy: it shows no ads, uses no analytics or advertising identifiers, and offers no purchases or free-text chat. Parents are welcome to contact us with any question.
 
 ## Changes
 
